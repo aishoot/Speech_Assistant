@@ -1,5 +1,5 @@
 # SpeechAssistent
-Is it cool to build a Speech AI Assistant like Siri, Google Home or Amazon Echo?<br><br>
+Is it cool to build a Speech AI Assistant like Siri, Google Home or Amazon Echo?<br>
 ![](pic.jpeg)
 
 ## File Description
