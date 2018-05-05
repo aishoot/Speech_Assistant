@@ -9,6 +9,6 @@ Is it cool to build a Speech AI Assistant like Siri, Google Home, Amazon Echo or
 * Anaconda3 (Python3.5+)
 
 ## Reference
-* aaa
+* [voice-assistants-making-smartphone-redundant](https://thenextweb.com/syndication/2018/02/24/voice-assistants-making-smartphone-redundant/)
 
 *More code will be uploaded soon!*
