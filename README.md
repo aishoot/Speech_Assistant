@@ -1,4 +1,4 @@
-# SpeechAssistent
+# SpeechAssistant
 Is it cool to build a Speech AI Assistant like Siri, Google Home, Amazon Echo or Samantha in *Her*?<br><br>
 ![](pic.jpeg)
 
