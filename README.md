@@ -9,7 +9,7 @@ Is it cool to build a Speech AI Assistant like Siri, Google Home, Amazon Echo or
 * Anaconda3 (Python3.5+)
 
 ## Speech Recognition Tools
-* [Kaldi](http://kaldi-asr.org/)
+* [Kaldi ASR](http://kaldi-asr.org/)
 * [Hidden Markov Model Toolkit (HTK)](http://htk.eng.cam.ac.uk/)
 * [CMUSphinx](https://cmusphinx.github.io/)
 
